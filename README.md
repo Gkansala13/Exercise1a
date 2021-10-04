@@ -1,0 +1,2 @@
+
+An array of fifty Player objects, such that the Player objects in the array have a name like "Player 1", "Player 2", "Player 3" and so on; and that they have a random score, an integer between 10 and 300.
